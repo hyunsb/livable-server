@@ -69,16 +69,6 @@
 <br><br><br><br>
 
 
-<div align=center><h2>Jacoco 테스트 커버리지</h2></div>
-
-> 백엔드팀 테스트 커버리지 목표 40% 이상 달성
-
-![image](https://github.com/khsrla9806/livable-server/assets/70641477/cf7ea67a-e881-4a0a-a26c-4db876acb0ea)
-
-
-
-<br><br><br><br>
-
 
 <div align=center><h2>프로젝트 실행하기</h2></div>
 
